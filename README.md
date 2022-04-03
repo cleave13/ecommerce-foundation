@@ -48,7 +48,7 @@ The endpoints for this application include:
 
 ![insomnia-api-calls](./public/images/insomnia-api-calls.png)
 
-The following [video link]() shows the application in action.
+The following [video link](https://drive.google.com/file/d/1rF805yfpbRawE2bUZKCcugxczx07nwk6/view) shows the application in action.
 
 ## License
 
